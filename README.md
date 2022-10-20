@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Egor Ivashchenko (@Egichiv).
+- 👀 I’m interested in C++. Hard to add anything, because it's only the beginning of my path.
+- 🌱 I’m currently learning C++, Algotithms & Data Structures.
+- 📫 How to reach me: TBD.
