@@ -1,7 +1,7 @@
 👋 Hi, I’m Egor Ivashchenko (@Egichiv).
 
 I am a software developer, currently a 2nd year (bachelors) student at Herzen University in Saint-Petersburg, "Information Systems".<br>
-Previously studied in ITMO University (first 3 semesters), "Software Engineering".
+Previously studied at ITMO University (first 3 semesters), "Software Engineering".
 
 **Programming Languages**:
 - C/C++
@@ -14,7 +14,7 @@ Previously studied in ITMO University (first 3 semesters), "Software Engineering
 - Git
 - CI/CD
 - HTTP
-- Algotithms and Data Structures
+- Algorithms and Data Structures
 - Unit Testing
 
 **Frameworks / Tools**:
@@ -28,7 +28,7 @@ Previously studied in ITMO University (first 3 semesters), "Software Engineering
 - English (around C1-C2)
 
 **Experience**:
-- Have not worked officially yet, nor did participate in any internships.<br>
+- I have not worked officially yet nor participated in any internships.<br>
 Just basic education from courses in ITMO and Herzen (though pretty thorough ones).<br>
-And different kinds of self education, of course.
+And lots of self-education, of course.
 - Yandex ML trainings.
