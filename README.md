@@ -17,9 +17,10 @@ Previously studied at ITMO University (first 3 semesters), "Software Engineering
 - Algorithms and Data Structures
 - Unit Testing
 
-**Frameworks / Tools**:
+**Frameworks / Instruments**:
 - .NET Core
 - PostgreSQL
+- Microsoft SQL Server
 - GitHub
 - Docker
 
