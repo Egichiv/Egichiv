@@ -1,6 +1,6 @@
 👋 Hi, I’m Egor Ivashchenko (@Egichiv).
 
-I am a software developer, currently a 2nd year (bachelors) student at Herzen University in Saint-Petersburg, "Information Systems".<br>
+I am a software developer, currently a 3rd year (bachelors) student at Herzen University in Saint-Petersburg, "Information Systems".<br>
 Previously studied at ITMO University (first 3 semesters), "Software Engineering".
 
 **Programming Languages**:
