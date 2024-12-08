@@ -22,6 +22,8 @@ I am a software developer, currently a 3rd year (bachelors) student at ITMO Univ
 - Microsoft SQL Server
 - GitHub
 - Docker
+- Kafka
+- Redis
 
 **Languages**:
 - Russian (native)
